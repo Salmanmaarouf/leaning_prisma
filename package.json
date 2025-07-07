@@ -1,0 +1,27 @@
+{
+  "name": "learning_prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salmanmaarouf/leaning_prisma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salmanmaarouf/leaning_prisma/issues"
+  },
+  "homepage": "https://github.com/Salmanmaarouf/leaning_prisma#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "nodemon": "^3.1.10",
+    "prisma": "^6.11.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
