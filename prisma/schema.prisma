@@ -7,7 +7,6 @@
 // the generator reads all the prisma style code and converts it into prisma cient js fromat
 generator client {
   provider =      "prisma-client-js"
-  output   = "../generated/prisma"
 }
 
 datasource db {
